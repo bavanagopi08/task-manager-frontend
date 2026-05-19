@@ -72,3 +72,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # task-manager-frontend
 >>>>>>> 7503b1b23f0ee4a1a0b80a98e79bf87d9d342496
+>>>>>>>
+>>>>>>> #Live demo
+>>>>>>> https://vercel.com/bavanasri-s-projects/task-manager-frontend/34Rop3eTvBGqTazpX3L8A48vpktS
