@@ -111,3 +111,9 @@
 .delete-btn:hover {
   background-color: darkred;
 }
+.img {
+  width: 100%;
+  max-width: 500px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
