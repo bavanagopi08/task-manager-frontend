@@ -76,6 +76,10 @@ function Dashboard() {
 
   return (
     <div className="dashboard-container">
+    <div>
+        <h1>Task Manager</h1>
+        <img src="/project-i.jpg" alt="Project" />
+    </div>
 
       <div className="navbar">
 
