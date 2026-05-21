@@ -129,6 +129,9 @@ function Dashboard() {
       ))}
 
       </div>
+        <img src="/project-i.jpg" alt="Project" />
+        <img src="/project-ii.jpg" alt="Project" />
+        <img src="/project-iii.jpg" alt="Project" />
 
     </div>
   );
